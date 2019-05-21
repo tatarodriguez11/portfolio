@@ -1,163 +1,185 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Tatiana Rodríguez",
+    "occupation": "Javascript Frontend Developer",
+    "description": "I love keeping learning new things all the time, so much so that now and for less than a year I have been programming with Reactjs giving very good results.",
+    "image": "profilepic.jpg",
+    "bio": "Over the last year I have been learning and working in development and I have specialized in React js, because I think it is a surprising bookstore. For me it is very important to be learning something new every day, and I really hope it is noticed in each of the jobs I have done. On the other hand, I like editing videos and photography as a hobby.",
+    "contactmessage": "Write me, so together we can see how I can be the piece that was missing from your team.",
+    "email": "rodriguezjessicatatiana@gmail.com",
+    "phone": "3166226698",
+    "address": {
+      "street": "Calle 13 28-53",
+      "city": "Floridablanca",
+      "state": "Santander",
+      "zip": "681001"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "http://www.tatianaro.com",
+    "resumedownload": "https://drive.google.com/open?id=1nmmEmTs2RkNyg_5Kheg06knYCG5M2_7a",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/tatianarodriguez11",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jessicatatianarodriguez",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "github",
+        "url": "https://github.com/tatarodriguez11",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "The skills that I have developed in the time I have been learning are",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Platzi",
+        "degree": "React, Redux, React-Router & Next js",
+        "graduated": "Feb 2019",
+        "description": "Thanks to Platzi I learned the basics of React, Redux, React Router and Next js and with that I was able to continue exploring for my part and start my own projects."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Free Code Camp",
+        "degree": "JavaScript Algorithms and Data Structures Projects",
+        "graduated": "Jan 2019",
+        "description": "It was my first contact with javascript and there I knew what I wanted to do."
+      },
+      {
+        "school": "Free Code Camp",
+        "degree": "Responsive Web Design Projects",
+        "graduated": "Oct 2018",
+        "description": "By doing this course I learned how important it is in usability issues to make responsive websites."
+      },
+      {
+        "school": "Universidad Pontificia Bolivariana",
+        "degree": "International Business Manager",
+        "graduated": "May 2018",
+        "description": "I have knowledge of administration, economics, marketing, logistics, international physical distribution, process optimization and financial statement analysis."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Las Palmas Hotel Group",
+        "title": "FrotEnd Developer",
+        "years": "March 2019 - April 2019",
+        "description": "Realization of the web page for the hotels, with the information of each plan that they offer to their clients."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Mi Sal",
+        "title": "FrontEnd Developer",
+        "years": "February 2019",
+        "description": "Realization of a landing website for a mineralized salt company."
+      },
+      {
+        "company": "Avianca S.A",
+        "title": "Intern",
+        "years": "August 2017 - February 2018",
+        "description": "Management and monitoring of group sales for nine cities."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "ReactJs",
+        "level": "70%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "React Router",
+        "level": "80%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "Redux",
+        "level": "70%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "HTML5",
+        "level": "90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "CSS",
+        "level": "90%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name": "NextJs",
+        "level": "70%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "VueJs",
+        "level": "40%"
+      },
+      {
+        "name": "ES6",
+        "level": "80%"
+      },
+      {
+        "name": "SASS",
+        "level": "70%"
+      },
+      {
+        "name": "Bulma",
+        "level": "80%"
+      },
+      {
+        "name": "Semantic UI",
+        "level": "70%"
+      },
+      {
+        "name": "GraphQl",
+        "level": "70%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title": "My anniversary (in Development)",
+        "category": "Tool to remember the anniversary date with gift options according to all types of budget.",
+        "image": "anniversary.jpg",
+        "url": "https://quirky-bhaskara-0ad068.netlify.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Pokedex",
+        "category": "I've always been a fan of pokemon, so here you can find the first generation.",
+        "image": "pokedex.jpg",
+        "url": "https://romantic-engelbart-254486.netlify.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title": "Las Palmas Hotels",
+        "category": "Website I built for a hotel group.",
+        "image": "las-palmas.jpg",
+        "url": "https://hotelesnecoclilaspalmas.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title": "Mi Sal",
+        "category": "Website I built for a mineralized salts company",
+        "image": "mi-sal.jpg",
+        "url": "https://www.misal.co/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Swipebuy",
+        "category": "(MVP Only) My first React based project.",
+        "image": "swipebuy.jpg",
+        "url": "https://silly-galileo-d1f67f.netlify.com/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Thanks to Tatiana I have the website that I dreamed of, and thanks to her execution my clients already have the complete information when they get in touch with me.",
+        "user": "Angela Machado - Las Palmas Hotel Owner"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "Tatiana listened to the needs I had for my website and thanks to the ideas she expressed on the website we highlighted in the first fair that we participated",
+        "user": "Fernando Silva - Misal.co Owner"
       }
     ]
   }
