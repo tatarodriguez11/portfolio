@@ -7,8 +7,8 @@ class Resume extends Component {
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function (education) {
         return <div key={education.school}>
-          <span style={{ display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "center" }}>
-            <img src={education.logo} alt="logo" style={{ width: "35px", marginRight: "5px", marginBottom:"10px" }} />
+          <span style={{ display: "flex", flexDirection: "row", alignItems: "center" }}>
+            <img src={education.logo} alt="logo" style={{ width: "35px", marginRight: "5px", marginBottom: "10px" }} />
             <h3>{education.school}</h3>
           </span>
           <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
