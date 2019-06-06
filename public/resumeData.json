@@ -10,8 +10,7 @@
     "phone": "+57 3166226698",
     "website": "http://www.tatianaro.com",
     "resumedownload": "https://drive.google.com/open?id=1nmmEmTs2RkNyg_5Kheg06knYCG5M2_7a",
-    "social": [
-      {
+    "social": [{
         "name": "facebook",
         "url": "https://www.facebook.com/tatianarodriguez11",
         "className": "fa fa-facebook"
@@ -30,8 +29,7 @@
   },
   "resume": {
     "skillmessage": "The skills that I have developed in the time I have been learning are",
-    "education": [
-      {
+    "education": [{
         "school": "Platzi",
         "degree": "React, Redux, React-Router & Next js",
         "graduated": "Feb 2019",
@@ -60,8 +58,7 @@
         "logo": "https://www.upb.edu.co/es/imagenes/img-escudo-lau-1464095147975.jpg"
       }
     ],
-    "work": [
-      {
+    "work": [{
         "company": "Las Palmas Hotel Group",
         "title": "FrotEnd Developer",
         "years": "March 2019 - April 2019",
@@ -80,8 +77,7 @@
         "description": "Management and monitoring of group sales for nine cities."
       }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "ReactJs",
         "level": "70%",
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/245px-React.svg.png"
@@ -154,7 +150,12 @@
     ]
   },
   "portfolio": {
-    "projects": [
+    "projects": [{
+        "title": "El Baratón",
+        "category": "An e-commerce I built for a challenge.",
+        "image": "el-baraton.jpg",
+        "url": "https://boring-bardeen-007f42.netlify.com/"
+      },
       {
         "title": "My anniversary (in Development)",
         "category": "Tool to remember the anniversary date with gift options according to all types of budget.",
@@ -188,8 +189,7 @@
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
+    "testimonials": [{
         "text": "Thanks to Tatiana I have the website that I dreamed of, and thanks to her execution my clients already have the complete information when they get in touch with me.",
         "user": "Angela Machado - Las Palmas Hotel Owner"
       },
