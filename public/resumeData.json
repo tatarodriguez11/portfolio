@@ -3,7 +3,7 @@
     "name": "Tatiana Rodríguez",
     "occupation": "Javascript Frontend Developer",
     "description": "I love keeping learning new things all the time, so much so that now and for less than a year I have been programming with Reactjs giving very good results.",
-    "image": "profilepic.jpg",
+    "image": "",
     "bio": "Over the last year I have been learning and working in development and I have specialized in React js, because I think it is a surprising bookstore. For me it is very important to be learning something new every day, and I really hope it is noticed in each of the jobs I have done. On the other hand, I like editing videos and photography as a hobby.",
     "contactmessage": "Write me, so together we can see how I can be the piece that was missing from your team.",
     "email": "rodriguezjessicatatiana@gmail.com",
@@ -30,6 +30,13 @@
   "resume": {
     "skillmessage": "The skills that I have developed in the time I have been learning are",
     "education": [{
+        "school": "Platzi",
+        "degree": "Typescript with Angular",
+        "graduated": "Jul 2019",
+        "description": "I am trying to improve myself, and I heard Angular is a big challenge, so I decide to try it and have Angular experience, in order to have my own concept of it.",
+        "logo": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts117/v4/22/5b/b9/225bb9b7-ec5c-67dd-addf-74f5a30dec9a/mza_7169694010008818694.jpg/268x0w.jpg"
+      },
+      {
         "school": "Platzi",
         "degree": "React, Redux, React-Router & Next js",
         "graduated": "Feb 2019",
@@ -59,6 +66,12 @@
       }
     ],
     "work": [{
+        "company": "Rappi",
+        "title": "FrotEnd Developer",
+        "years": "July 2019 - Actually",
+        "description": "Improvement of UX in general and pixel perfect implementation of main web and for Rappi Travel."
+      },
+      {
         "company": "Las Palmas Hotel Group",
         "title": "FrotEnd Developer",
         "years": "March 2019 - April 2019",
@@ -151,6 +164,13 @@
   },
   "portfolio": {
     "projects": [{
+        "title": "Pixel pefect challenge",
+        "category": "this site was built for a pixel-perfect implementation challenge for desktop screens and total freedom in terms of design for smaller screens.",
+        "image": "pixel-perfect.jpg",
+        "url": "https://vigorous-beaver-b1a667.netlify.com/"
+      },
+
+      {
         "title": "El Baratón",
         "category": "An e-commerce I built for a challenge.",
         "image": "el-baraton.jpg",
